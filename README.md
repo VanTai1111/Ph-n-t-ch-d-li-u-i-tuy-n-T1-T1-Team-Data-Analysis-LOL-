@@ -13,4 +13,3 @@ The workflow includes:
 - **Python**: BeautifulSoup (bs4), requests, pandas  
 - **Power BI**: interactive report creation  
 - **Data Source**: public data from [T1 Match History on LoL Fandom](https://lol.fandom.com/wiki/T1/Match_History)  
-**Author:** Tai Pham
